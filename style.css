@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 100px;
+    min-height: 100vh;
+}
+
+h1 {
+    color: white;
+    font-size: 48px;
+    text-align: center;
+}
+
+.container .header img{
+    display: block;
+    margin: 0 auto;
+}
+
+.container {
+    background-color: white;
+    padding: 20px calc((100% - 800px) / 2);
+    min-height: 100vh;
+}
+
+.header img {
+    border-radius: 1000%;
+}
+
+.container .header h2{
+    font-size: 48px;
+    text-align: center;
+}
+
+.container .education .tsi-imagem {
+    display: block;
+    margin: 20px 0;
+}
+
+.container .education .tsi-imagem img {
+    width: 167.92px;
+    height: 181.13px;
+    display: block;
+    margin: 0 auto;
+}
+
